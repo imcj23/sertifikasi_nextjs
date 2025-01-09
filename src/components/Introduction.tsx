@@ -22,7 +22,7 @@ export default function Introduction() {
           </div>
           <div className="relative w-96 h-96">
             <Image
-              src={"/public/Img/wics.jpg"}
+              src={"/Img/wics.jpg"}
               alt="Wicaksana Adi Saputro"
               fill={true}
               priority={true}
